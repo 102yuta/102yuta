@@ -1,7 +1,8 @@
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=102yuta&theme=onedark)](https://github.com//github-profile-trophy)
-
 ---
+-->
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=102yuta&count_private=true&include_all_commits=true" />
