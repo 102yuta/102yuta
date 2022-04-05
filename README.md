@@ -1,3 +1,6 @@
+## Readings
+* [OpenSource: Voice From the Open Source Revolution](https://www.oreilly.co.jp/BOOK/osp/OpenSource_Web_Version/contents/contents.html)
+* [Fine Software Writings](http://www.aoky.net/)
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=102yuta&theme=onedark)](https://github.com//github-profile-trophy)
